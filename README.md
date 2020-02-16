@@ -1,6 +1,6 @@
 # TrashClassifier
-Adding my custom FC layer and trained with data form Kaggle to build a trash classifier.<br> 
-After porting the .h5 file into tenserflow-lite formate, I deployed the .tflite model on Google's offcial android example project to allow the classifier running on the mobile device.
+Adding custom FC layer and trained with data form Kaggle to build a trash classifier.<br> 
+By porting the .h5 file into tenserflow-lite formate and being deployed on Google's offcial android example project, the .tflite model is now allowed to run on the android mobile device.
 
 
 Dataset : https://www.kaggle.com/asdasdasasdas/garbage-classification  <br> 
