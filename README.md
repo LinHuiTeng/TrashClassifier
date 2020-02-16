@@ -1,6 +1,6 @@
 # TrashClassifier
-Adding may custom FC layer and traned with Garbage Classification Data form Kaggle to build a trash classifier.
-After porting the .h5 file into tenserflow-lite formate, I deployed the classifier model on Google's offcial android example application project.
+Adding may custom FC layer and trained with data form Kaggle to build a trash classifier.<br> 
+After porting the .h5 file into tenserflow-lite formate, I deployed the model on Google's offcial android example application project to allow the classifier running on the mobile device.
 
 
 ref. <br> 
