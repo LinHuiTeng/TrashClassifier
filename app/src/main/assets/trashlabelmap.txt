@@ -1,0 +1,5 @@
+CardBoard
+Glass
+Metal
+Paper
+Plastic
