@@ -3,6 +3,6 @@ Adding may custom FC layer and traned with Garbage Classification Data form Kagg
 After porting the .h5 file into tenserflow-lite formate, I deployed the classifier model on Google's offcial android example application project.
 
 
-ref.
-Dataset : https://www.kaggle.com/asdasdasasdas/garbage-classification
+ref./n
+Dataset : https://www.kaggle.com/asdasdasasdas/garbage-classification /n
 Android application example : https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/android/README.md
