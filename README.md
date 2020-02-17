@@ -1,6 +1,6 @@
 # TrashClassifier
-Adding custom FC layer and trained with data form Kaggle to build a trash classifier.<br> 
-By porting the .h5 file into tenserflow-lite formate and being deployed on Google's official android example project, the .tflite model is now allowed to run on the android mobile device.
+## Overview
+This is an example application for TensorFlow Lite on Android. It classifies the trash image from the device's back camera into 6 classes in real-time.
 
 
 Dataset : https://www.kaggle.com/asdasdasasdas/garbage-classification  <br> 
