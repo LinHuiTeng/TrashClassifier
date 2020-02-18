@@ -1,6 +1,6 @@
 # TrashClassifier
 ## Overview
-This is an example application for TensorFlow Lite on Android. It classifies whatever it sees on the device's camera into 6 kinds of trash in real-time.
+This is an example application for TensorFlow Lite on Android. It classifies whatever it sees on the device's camera into 5 kinds of trash in real-time.
 ## Model
 Add custom FC layer as an new output in a pre-trained and optimized model named MobileNet. This fine-tuned model is re-trained with the dataset from Kaggle's garbage-classification challenge. 
 ## Deploy
